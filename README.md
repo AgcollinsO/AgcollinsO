@@ -19,7 +19,7 @@ I thrive in collaborative, insight-driven environments where data is used to dri
 
 - 🔬 [**Cancer Analysis Dashboard**](https://cancer-analysis-dashboard.streamlit.app/)  
   Explore global trends in cancer risk factors, costs, and survival rates across age groups.  
-  👉 [Medium Article](https://medium.com/@your-medium-url) | [LinkedIn Post](https://www.linkedin.com/in/agwu-collins-90087b366/overlay/)
+  👉 [Medium Article]([https://medium.com/@your-medium-url](https://medium.com/@collinsobinna68/title-uncovering-patterns-in-global-cancer-data-a-visual-analytics-approach-2015-2024-8203f8b6ed38)) | [LinkedIn Post]([https://www.linkedin.com/in/agwu-collins-90087b366/overlay/](https://www.linkedin.com/feed/update/urn:li:activity:7349430965791793152/))
 
 ---
 
@@ -44,5 +44,5 @@ I thrive in collaborative, insight-driven environments where data is used to dri
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/agwu-collins-90087b366/)  
 - 📝 [Medium](https://medium.com/@your-medium-url)  
-- 🌐 [Tableau Public](https://public.tableau.com/app/profile/your-profile)  
+- 🌐 [Tableau Public](https://public.tableau.com/app/profile/your-profile) 
 - ✉️ collinsobinna68@gmail.com  
