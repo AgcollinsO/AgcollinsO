@@ -1,12 +1,48 @@
-- 👋 Hi, I’m Ag collins O.
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on projects that unravel insight from data
-- 📫 How to reach me Check me out on any of my social media handles
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love the view of the world through the lens of cameras
 
-<!---
-AgcollinsO/AgcollinsO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🧑‍💻 Agwu Collins Obinna
+
+**Emerging Data Analyst** | Passionate about transforming raw data into actionable insights  
+📍 Based in Nigeria | 🌍 Open to remote & visa-sponsored roles  
+📬 [collinsobinna68@gmail.com](mailto:collinsobinna68@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a self-driven data enthusiast transitioning from a background in science to tech. I specialize in analyzing data with tools like **Excel**, **SQL**, **Tableau**, and **Python (Pandas)**, and I'm actively building real-world dashboards with **Streamlit**.
+
+I thrive in collaborative, insight-driven environments where data is used to drive decisions. Currently focused on sharpening my storytelling, dashboarding, and ETL automation skills.
+
+---
+
+## 🚀 Latest Projects
+
+- 🔬 [**Cancer Analysis Dashboard**](https://cancer-analysis-dashboard.streamlit.app/)  
+  Explore global trends in cancer risk factors, costs, and survival rates across age groups.  
+  👉 [Medium Article](https://medium.com/@your-medium-url) | [LinkedIn Post](https://www.linkedin.com/in/agwu-collins-90087b366/overlay/)
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages**: SQL · Python  
+**Libraries**: Pandas · Matplotlib · Seaborn  
+**Tools**: Excel · Tableau · Streamlit · Power BI  
+**Others**: Git · Jupyter · Salesforce CRM
+
+---
+
+## 🌱 Current Focus
+
+- 🔹 Building more themed dashboards (1 per week)
+- 🔹 Learning Power BI and Python automation for data workflows
+- 🔹 Improving my German (🇩🇪 Duolingo streak > 100!)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/agwu-collins-90087b366/)  
+- 📝 [Medium](https://medium.com/@your-medium-url)  
+- 🌐 [Tableau Public](https://public.tableau.com/app/profile/your-profile)  
+- ✉️ collinsobinna68@gmail.com  
